@@ -1,4 +1,4 @@
-## Simple Examples of Design Patterns
+A repo of Swift playgrounds about some common design patterns including:
 
 ### Creational
 
